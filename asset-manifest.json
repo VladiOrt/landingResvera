@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landingResvera.git/static/css/main.fcdeca47.css",
+    "main.js": "/landingResvera.git/static/js/main.99ff3061.js",
+    "static/js/787.6e1884df.chunk.js": "/landingResvera.git/static/js/787.6e1884df.chunk.js",
+    "static/media/fondo.jpg": "/landingResvera.git/static/media/fondo.b8e86c18aa90366fa97c.jpg",
+    "static/media/GabrielaStencil.otf": "/landingResvera.git/static/media/GabrielaStencil.7c2aa2609c7e82a0b8f7.otf",
+    "static/media/AvenirNext.otf": "/landingResvera.git/static/media/AvenirNext.94f2f163d4b698242fef.otf",
+    "static/media/registro_landing_qr_Mesa de trabajo 1.svg": "/landingResvera.git/static/media/registro_landing_qr_Mesa de trabajo 1.1d24c9a9ac7ee4f94005.svg",
+    "index.html": "/landingResvera.git/index.html",
+    "main.fcdeca47.css.map": "/landingResvera.git/static/css/main.fcdeca47.css.map",
+    "main.99ff3061.js.map": "/landingResvera.git/static/js/main.99ff3061.js.map",
+    "787.6e1884df.chunk.js.map": "/landingResvera.git/static/js/787.6e1884df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdeca47.css",
+    "static/js/main.99ff3061.js"
+  ]
+}
