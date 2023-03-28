@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/landingResvera/static/css/main.ef60a36e.css",
+    "main.css": "/landingResvera/static/css/main.8a00eabe.css",
     "main.js": "/landingResvera/static/js/main.900d215b.js",
     "static/js/787.6e1884df.chunk.js": "/landingResvera/static/js/787.6e1884df.chunk.js",
     "static/media/fondo.jpg": "/landingResvera/static/media/fondo.b8e86c18aa90366fa97c.jpg",
@@ -11,12 +11,12 @@
     "static/media/registro_landing_qr_Mesa de trabajo 1.svg": "/landingResvera/static/media/registro_landing_qr_Mesa de trabajo 1.1d24c9a9ac7ee4f94005.svg",
     "static/media/AvegraRegular-DOX01.otf": "/landingResvera/static/media/AvegraRegular-DOX01.c79f87f8e61fb8111da9.otf",
     "index.html": "/landingResvera/index.html",
-    "main.ef60a36e.css.map": "/landingResvera/static/css/main.ef60a36e.css.map",
+    "main.8a00eabe.css.map": "/landingResvera/static/css/main.8a00eabe.css.map",
     "main.900d215b.js.map": "/landingResvera/static/js/main.900d215b.js.map",
     "787.6e1884df.chunk.js.map": "/landingResvera/static/js/787.6e1884df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef60a36e.css",
+    "static/css/main.8a00eabe.css",
     "static/js/main.900d215b.js"
   ]
 }
